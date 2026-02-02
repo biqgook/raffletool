@@ -1,0 +1,25 @@
+# Reddit Raffle Tool Requirements
+
+# Reddit API
+praw>=7.7.1
+
+# Data processing and Excel support
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Image processing for checkmark display
+Pillow>=9.0.0
+
+# Modern GUI theme
+sv-ttk>=2.6.0
+
+# Windows title bar theming (Windows only)
+pywinstyles>=1.0.0
+
+# Standard library dependencies (included with Python)
+# tkinter (built-in)
+# datetime (built-in)
+# threading (built-in)
+# os (built-in)
+# sys (built-in)
+# platform (built-in)

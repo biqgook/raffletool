@@ -1,0 +1,10 @@
+.git
+.firebaserc
+*.pyc
+__pycache__
+venv/
+.env
+.env.local
+firebase-debug.log
+firebase-debug.*.log
+node_modules/
